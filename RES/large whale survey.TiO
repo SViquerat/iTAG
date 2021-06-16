@@ -1,0 +1,229 @@
+(dp0
+S'dirList'
+p1
+(lp2
+S'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\_0104_dsc_3042 (large).jpg'
+p3
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\_dsc4806.jpg'
+p4
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\_dsc5705.jpg'
+p5
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\_mg_0720.jpg'
+p6
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\_mg_0721.jpg'
+p7
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\abbohrdsc_2221_b.jpg'
+p8
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\bech1_20150113_075832.jpg'
+p9
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2147_b (medium).jpg'
+p10
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2150_b (medium).jpg'
+p11
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2152_b (medium).jpg'
+p12
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2155_b (medium).jpg'
+p13
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2158_b (medium).jpg'
+p14
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2161_b (medium).jpg'
+p15
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2164_b (medium).jpg'
+p16
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2167_b (medium).jpg'
+p17
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2170_b (medium).jpg'
+p18
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2172_b (medium).jpg'
+p19
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2173_b (medium).jpg'
+p20
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2175_b (medium).jpg'
+p21
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2201_b (medium).jpg'
+p22
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2208_b (medium).jpg'
+p23
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2211_b (medium).jpg'
+p24
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2214_b (medium).jpg'
+p25
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2218_b (medium).jpg'
+p26
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2221_b (medium).jpg'
+p27
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\dsc_2221_b.jpg'
+p28
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\p1020867(large).jpg'
+p29
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\p1020872b(large).jpg'
+p30
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\p1020910(large).jpg'
+p31
+aS'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\serie 2.jpg'
+p32
+asS'os_name'
+p33
+S'nt'
+p34
+sS'catnames'
+p35
+(lp36
+S'Balaenoptera physalus'
+p37
+aS'Balaenoptera musculus'
+p38
+aS'Balaenoptera acutorostrata'
+p39
+aS'Megaptera novaeangliae'
+p40
+aS'Orcinus orca'
+p41
+aS'Other marine mammal'
+p42
+aS'Bird'
+p43
+aS'Other'
+p44
+aS'Anthropogenic'
+p45
+asS'basename'
+p46
+S'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics'
+p47
+sS'tagsize'
+p48
+I3
+sS'shortpath'
+p49
+S'...\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\'
+p50
+sS'filenames'
+p51
+(lp52
+S'_0104_dsc_3042 (large).jpg'
+p53
+aS'_dsc4806.jpg'
+p54
+aS'_dsc5705.jpg'
+p55
+aS'_mg_0720.jpg'
+p56
+aS'_mg_0721.jpg'
+p57
+aS'abbohrdsc_2221_b.jpg'
+p58
+aS'bech1_20150113_075832.jpg'
+p59
+aS'dsc_2147_b (medium).jpg'
+p60
+aS'dsc_2150_b (medium).jpg'
+p61
+aS'dsc_2152_b (medium).jpg'
+p62
+aS'dsc_2155_b (medium).jpg'
+p63
+aS'dsc_2158_b (medium).jpg'
+p64
+aS'dsc_2161_b (medium).jpg'
+p65
+aS'dsc_2164_b (medium).jpg'
+p66
+aS'dsc_2167_b (medium).jpg'
+p67
+aS'dsc_2170_b (medium).jpg'
+p68
+aS'dsc_2172_b (medium).jpg'
+p69
+aS'dsc_2173_b (medium).jpg'
+p70
+aS'dsc_2175_b (medium).jpg'
+p71
+aS'dsc_2201_b (medium).jpg'
+p72
+aS'dsc_2208_b (medium).jpg'
+p73
+aS'dsc_2211_b (medium).jpg'
+p74
+aS'dsc_2214_b (medium).jpg'
+p75
+aS'dsc_2218_b (medium).jpg'
+p76
+aS'dsc_2221_b (medium).jpg'
+p77
+aS'dsc_2221_b.jpg'
+p78
+aS'p1020867(large).jpg'
+p79
+aS'p1020872b(large).jpg'
+p80
+aS'p1020910(large).jpg'
+p81
+aS'serie 2.jpg'
+p82
+asS'colours'
+p83
+(lp84
+S'#FFFF00'
+p85
+aS'#09FF09'
+p86
+aS'#FF00FF'
+p87
+aS'#6E44E3'
+p88
+aS'#C9E87B'
+p89
+aS'#69E0C7'
+p90
+aS'#D19B1D'
+p91
+aS'#000000'
+p92
+aS'#FFFFFF'
+p93
+asS'newdir'
+p94
+S'C:\\Users\\kurator247\\Dropbox\\HelloWorld\\iTag_Testpics\\Username'
+p95
+sS'modnames'
+p96
+(lp97
+S'adult'
+p98
+aS'juvenile'
+p99
+aS'dead'
+p100
+aS'unknown'
+p101
+asS'user'
+p102
+S'Username'
+p103
+sS'params'
+p104
+(lp105
+S''
+p106
+ag106
+ag106
+ag106
+ag106
+ag106
+ag106
+ag106
+ag106
+asS'colours_palette'
+p107
+(lp108
+g85
+ag86
+ag87
+ag88
+ag89
+ag90
+ag91
+ag92
+ag93
+as.

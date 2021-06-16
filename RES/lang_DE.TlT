@@ -1,0 +1,127 @@
+# -*- coding: UTF-8 -*-
+#### german language file
+
+# BASIC:
+UNAME = "Benutzername"
+FILENAME = "Dateiname"
+CATEGORY="Kategorie"
+TAGGED = "markiert"
+SAVETITLE = "Speichere Optionen unter"
+INVALID_SAVE = "...wähle einen erlaubten Dateinamen zum Speichern"
+WARNING_TITLE = "Achtung..."
+PROGRESS_TEXT = "Arbeite..."
+LEGEND_DONE = "Legende exportiert in"
+REDRAW_WARN = "...sorry, es gibt ein Problem mit"
+DONE = "Fertig"
+CHOOSE_FILE = "Wählen sie eine Datei"
+INVALID_UNAME = "...wählen sie einen erlaubten Benutzernamen"
+CAT_NO = "Anzahl der Kategorien"
+MODIFIER_TEXT = "Modifikator"
+MODIFIER_COL = "Text"
+OPT_SAVED = "Optionen gespeichert in"
+OPT_SAVE_WARN = "...wählen sie eine gültige Datei zum Speichern der Optionen"
+COL_SIMILAR = "...Farben könnten sich sehr ähnlich sein"
+NAME_ENTER = "Geben sie einen Namen ein"
+NOT_A_NUMBER = "Eingabe ist keine Zahl"
+CAT_NAME = "Name für Kategorie"
+UNAME_EMPTY = "...bitte wählen sie einen nicht leeren Benutzernamen"
+TOOLONG = "...wählen sie einen Benutzernamen kürzer als"
+CHARS = "Zeichen"
+CAT_RANGE = "Bitte wählen sie eine Anzahl an Kategorien zwischen 1 und 9"
+ENTER_UNAME = "Geben sie einen Benutzernamen ein:"
+NAME = "Name"
+ALT_TEXT = "Modifikator"
+ALT_MODI = "Geben sie einen Bezeichner für den Modifikator ein"
+LANG = "Sprache"
+QUIT_ANYWAY = "Ohne Beobachtungen beenden?"
+WARN_CHARACTER = "Unerlaubte(s) Zeichen gefunden!\nErlaubt sind a-z 0-9 _ und Leerzeichen"
+QUERY_SAVE="Möchten sie speichern oder ihre Änderungen verwerfen?"
+QUIT_REALLY = "Programm beenden?"
+PTITLE = "Info Panel"
+
+# GROUPS:
+GROUP_INCR = "Gruppenzähler erhöht"
+GROUP_DECR = "Gruppenzähler verringert"
+GROUP_WARN = "...Gruppenzähler auf Minimum"
+
+# BUTTONS:
+BTN_HELP = "Hilfe"
+BTN_NEW_SES = "Neue Sitzung"
+BTN_OPT="Optionen"
+BTN_SAVE_SES = "Sitzung speichern"
+BTN_LOAD_SES = "Sitzung laden"
+BTN_END_SES = "Sitzung beenden"
+BTN_QUIT = "Beenden"
+BTN_IN_SES_OPT = "Sitzungsoptionen"
+BTN_OK = "Ok"
+BTN_CANCEL = "Abbruch"
+BTN_SAVE_OPT = "Optionen speichern"
+BTN_LOAD_OPT = "Optionen laden"
+BTN_SAVE = "Änderungen speichern"
+BTN_DISCARD = "Änderungen verwerfen"
+BTN_GOTO="Bild:"
+
+# IMAGE MODES:
+MODE_AUTO = "Autokontrast"
+MODE_EQH = "gestrecktes Histogramm"
+MODE_INV = "invertiert"
+MODE_SOL = "solarisiert (Schwelle > 128)"
+MODE_POS = "posterisiert (2 bit pro Kanal)"
+FULL_OUT = "Maximale Vergrösserung erreicht"
+FULL_IN = "Minimale Vergrösserung erreicht"
+MODE_UNSHARP = "Unsharf maskiert"
+MODE_SMARTSHARP = "Intelligentes Schärfen"
+
+FULL_OUT = "Maximum zoom reached"
+FULL_IN = "Minimum zoom reached"
+FULL_SWITCH = "Switch Fullscreen (F11)"
+PANEL_SWITCH = "Switch Panel On/Off (F9)"
+SUPRESS_SWITCH = "supress warnings until next image"
+
+# OBJECTS:
+NO_OBJECTS = "Keine Objekte gefunden"
+NO_OBJECTS_TAGGED = "...keine Objekte markiert"
+TAG_OVERLAP = "...mögliche Überdeckung mit"
+OVERLAP_SUPRESS = "unterdrücke Warnungen bis zum nächsten Bild"
+TAG_SIZE = "Tag Grösse"
+TAG_CHANGE = "Tag Grösse ändern"
+TAG_CHANGE2 = "Tag Markierungsgrösse (px)"
+TAG_SIZE_WARN = "Bitte belassen sie die Grösse zwischen 1 und 100"
+
+# FILES:
+NO_FILES = "...keine Dateien gewählt"
+FILES_SAVED="Alle Dateien wurden gespeichert"
+FILES_NOTFOUND = "Fehler beim Laden der Dateien aus"
+FILES_NEWLOC = "Bitte den neuen Speicherort angeben"
+FILES_FINDLOC = "Bitte den neuen Speicherort angeben"
+DIRLIST_EMPTY = "...keine Bilder geladen"
+DIRLIST_FINISHED = "...keine Bilder mehr in Liste"
+CHOOSE_DIR = "Wählen sie ein Verzeichnis mit Bildern"
+ASCII_ONLY = "In Pfadnamen sind nur ASCII Zeichen erlaubt!"
+
+#SESSION
+SES_INVALID_LOAD = "...wählen sie eine korrekte Sitzungsdatei"
+SES_RELOAD = "Wiederherstellung beginnt"
+SES_LOAD_FAIL = "Wiederherstellung fehlgeschlagen"
+SES_SAVE_AS = "Speichere Sitzung unter"
+SES_SAVED = "Sitzung gespeichert unter"
+SES_INVALID_SAVE = "...geben sie eine gültige Sitzungsdatei zum Speichern an"
+NO_OBS = "...keine Beobachtungen vorhanden"
+OBS_EMPTY = "...keine Daten vorhanden!!!"
+SES_OPT = "Columns to process"
+
+#COMPLEX
+LEGEND_TEXT = ["gefüllter Kreis","Rechteck","gefülltes Rechteck", "Horizontaler Balken"]
+SUMMARY_COLS = ["Benutzername","Dateiname","Gruppe","lat","lon","Höhe","gpsdate","camdate","savedate"]
+DETAIL_COLS = ["ID","Benutzername","Dateiname","xpos","ypos","Kategorie","Anzahl","lat","lon","Höhe","gpsdate","camdate","savedate"]
+OPT_HEADER = ("Taste","Farbe","Kategorie")
+MODIFIER = ["Keine Modifikation","Shift-Taste","Strg-Taste","Alt-Taste"]
+
+#STATUS
+ITEM_DELETED = "1 Objekt gelöscht"
+WRONGCAT = "Falsche Kategorie!"
+CAT_CHANGE = "Kategorie geändert"
+STATUS_CHG_PIC = "Bild gewechselt"
+STAT_OBJ = "Objekte"
+STAT_GRP = "Gruppen"
+STAT_MSG = "Status"

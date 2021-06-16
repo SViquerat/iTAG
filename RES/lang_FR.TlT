@@ -1,0 +1,127 @@
+# -*- coding: UTF-8 -*-
+#### french language file
+
+# BASIC:
+UNAME = "Nom d'utilisateur"
+FILENAME = "nom de fichier"
+CATEGORY="catégorie"
+TAGGED = "marquée"
+SAVETITLE = "Enregistrer les données sous"
+INVALID_SAVE = "...indiquez un nom valide"
+WARNING_TITLE = "S'il vous plait..."
+PROGRESS_TEXT = "Working..."
+LEGEND_DONE = "Légende enregistrée sous"
+REDRAW_WARN = "...excusez, il y a un problème avec"
+DONE = "fini"
+CHOOSE_FILE = "Choisissez un fichier"
+INVALID_UNAME = "...indiquez un nom d'utilisateur valide"
+CAT_NO = "Nombres de catégories"
+MODIFIER_TEXT = "Modificateur"
+MODIFIER_COL = "Texte"
+OPT_SAVED = "Données enregistrées sous"
+OPT_SAVE_WARN = "...indiquez un nom valide pour les données"
+COL_SIMILAR = "...les couleurs se ressemblent beaucoup"
+NAME_ENTER = "Entrez de nom"
+NOT_A_NUMBER = "Entrée n'est pas un nombre"
+CAT_NAME = "Nom de la catégorie"
+UNAME_EMPTY = "...indiquez un nom d\'utilisateur non vide"
+TOOLONG = "...limitez la longeur du nom sous"
+CHARS = "signe"
+CAT_RANGE = "SVP limitez la nombre des catégories entre 1 et 9"
+ENTER_UNAME = "Entrez le nom d'utilisateur"
+NAME = "Nom"
+ALT_TEXT = "Texte du modificateur"
+ALT_MODI = "Entrez texte du modificateur"
+LANG = "Langue"
+QUIT_ANYWAY = "Quitter sans aucune obsérvations"
+WARN_CHARACTER = "Charactères invalides!\nCharactères valides sont: a-z 0-9 _ et espace"
+QUERY_SAVE="Voulez-vous enregistrer la séanceou annuler les données?"
+QUIT_REALLY = "Quitter le logiciel?"
+PTITLE = "Info Panel"
+
+# GROUPS:
+GROUP_INCR = "Compteur de groupe éleve"
+GROUP_DECR = "Compteur de groupe réduit"
+GROUP_WARN = "...compteur de groupe au minimum"
+
+# BUTTONS:
+BTN_HELP = "Aide"
+BTN_NEW_SES = "Nouvelle séance"
+BTN_OPT="Données"
+BTN_SAVE_SES = "Enregistrer la séance"
+BTN_LOAD_SES = "Charger une séance"
+BTN_END_SES = "Terminer la séance"
+BTN_QUIT = "Quitter"
+BTN_IN_SES_OPT = "Données de séance"
+BTN_OK = "Ok"
+BTN_CANCEL = "Annuler"
+BTN_SAVE_OPT = "Enregistrer les données"
+BTN_LOAD_OPT = "Charger les données"
+BTN_SAVE = "Enregistrer le modifications"
+BTN_DISCARD = "Annuler les modifications"
+BTN_GOTO="Image:"
+
+# IMAGE MODES:
+MODE_AUTO = "autocontrast"
+MODE_EQH = "equalized hist"
+MODE_INV = "inverted"
+MODE_SOL = "solarized (threshold > 128)"
+MODE_POS = "posterized (2 bits per channel)"
+FULL_OUT = "Maximum zoom reached"
+FULL_IN = "Minimum zoom reached"
+MODE_UNSHARP = "Unsharf maskiert"
+MODE_SMARTSHARP = "Smart sharpened"
+
+FULL_OUT = "Maximum zoom reached"
+FULL_IN = "Minimum zoom reached"
+FULL_SWITCH = "Switch Fullscreen (F11)"
+PANEL_SWITCH = "Switch Panel On/Off (F9)"
+SUPRESS_SWITCH = "supress warnings until next image"
+
+# OBJECTS:
+NO_OBJECTS = "No Objects found!"
+NO_OBJECTS_TAGGED = "...no objects tagged"
+TAG_OVERLAP = "...possible overlap with"
+TAG_SIZE = "Tag Size"
+TAG_CHANGE = "Change Tag Size"
+TAG_CHANGE2 = "Tag Marker Size (px)"
+TAG_SIZE_WARN = "Please keep the tagsize between 1 and 100"
+
+# FILES:
+NO_FILES = "...no files selected"
+FILES_SAVED="All files have been saved"
+FILES_NOTFOUND = 'Could not restore path to Images specified in'
+FILES_NEWLOC = 'Please provide the new location'
+FILES_FINDLOC = 'Please specify the new location of'
+DIRLIST_EMPTY = '...no pictures loaded'
+DIRLIST_FINISHED = "...no more pictures"
+CHOOSE_DIR = 'Choose a directory containing image files'
+ASCII_ONLY = "Only ASCII characters are allowed in Pathnames!"
+
+#SESSION
+SES_INVALID_LOAD = '...provide a valid Session file for loading'
+SES_RELOAD = 'Will now reload'
+SES_LOAD_FAIL = 'Loading failed'
+SES_SAVE_AS = "Saving Session as"
+SES_SAVED = 'Session saved as'
+SES_INVALID_SAVE = '...provide a valid Session file for saving'
+NO_OBS = "...no Observations made!"
+OBS_EMPTY = '...there is no data worth saving!!!'
+SES_OPT = "Columns to process"
+
+#COMPLEX
+LEGEND_TEXT = ["Filled Circle","Rectangle","Filled Rectangle", "Horizontal Bar"]
+SUMMARY_COLS = ["Username","filename","lat","lon","alt","gpsdate","camdate",'savedate']
+DETAIL_COLS = ['ID','Username','filename','xpos','ypos','Category','count','lat','lon','altitude','gpsdate','camdate','savedate']
+OPT_HEADER = ("Key","Colour","Category Name")
+MODIFIER = ["No modifier","Shift key","Ctrl Key","Alt Key"]
+
+#STATUS
+ITEM_DELETED = "1 Item deleted"
+WRONGCAT = "Wrong Category!"
+CAT_CHANGE = "Category change"
+STATUS_CHG_PIC = 'Changed pictures'
+STAT_OBJ = 'Objects'
+STAT_GRP = 'Groups'
+STAT_MSG = 'Message'
+
